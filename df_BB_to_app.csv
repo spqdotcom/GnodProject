@@ -1,0 +1,101 @@
+Ranking,song,artist,is_in_features,spotify_id,popularity,duration_ms,album,release_date,spotify_uri
+1,Luther,Kendrick Lamar & SZA,True,2CGNAOSuO1MEFCbBRgUzjd,930,1775980,GNX,2024-11-21,spotify:track:2CGNAOSuO1MEFCbBRgUzjd
+2,Die With A Smile,Lady Gaga & Bruno Mars,False,2plbrEY59IikOBgBGLjaoe,1000,2516670,Die With A Smile,2024-08-16,spotify:track:2plbrEY59IikOBgBGLjaoe
+3,Not Like Us,Kendrick Lamar,True,6AI3ezQ4o3HUoP6Dhudph3,960,2741920,Not Like Us,2024-05-04,spotify:track:6AI3ezQ4o3HUoP6Dhudph3
+4,TV Off,Kendrick Lamar Featuring Lefty Gunplay,False,0aB0v4027ukVziUGwVGYpG,940,2206900,GNX,2024-11-22 00:00:00,spotify:track:0aB0v4027ukVziUGwVGYpG
+5,A Bar Song (Tipsy),Shaboozey,False,2FQrifJ1N335Ljm3TjTVVf,850,1712910,A Bar Song (Tipsy),2024-04-12,spotify:track:2FQrifJ1N335Ljm3TjTVVf
+6,APT.,ROSE & Bruno Mars,False,5vNRhkKd0yEAg8suGBpjeY,940,1699170,APT.,2024-10-18,spotify:track:5vNRhkKd0yEAg8suGBpjeY
+7,Birds Of A Feather,Billie Eilish,True,6dOtVTDdiauQNBQEDOtlAB,970,2103730,HIT ME HARD AND SOFT,2024-05-17,spotify:track:6dOtVTDdiauQNBQEDOtlAB
+8,Pink Pony Club,Chappell Roan,False,1k2pQc5i348DCHwbn5KTdc,860,2580340,The Rise and Fall of a Midwest Princess,2023-09-22,spotify:track:1k2pQc5i348DCHwbn5KTdc
+9,Lose Control,Teddy Swims,True,17phhZDn6oGtzMe56NuWvj,890,2106880,I've Tried Everything But Therapy (Part 1),2023-09-15,spotify:track:17phhZDn6oGtzMe56NuWvj
+10,Squabble Up,Kendrick Lamar,True,0nj9Bq5sHDiTxSHunhgkFb,900,1579920,GNX,2024-11-22,spotify:track:0nj9Bq5sHDiTxSHunhgkFb
+11,Nokia,Drake,True,2u9S9JJ6hTZS3Vf22HOZKg,880,2410230,$ome $exy $ongs 4 U,2025-02-14,spotify:track:2u9S9JJ6hTZS3Vf22HOZKg
+12,Beautiful Things,Benson Boone,True,3xkHsmpQCBMytMJNiDf3Ii,890,1803040,Fireworks & Rollerblades,2024-04-05,spotify:track:3xkHsmpQCBMytMJNiDf3Ii
+13,That's So True,Gracie Abrams,True,7ne4VBA60CxGM75vw0EYad,950,1663000,The Secret of Us (Deluxe),2024-10-18,spotify:track:7ne4VBA60CxGM75vw0EYad
+14,Love Somebody,Morgan Wallen,True,7hR22TOX3RorxJPcsz5Wbo,850,2048280,Love Somebody,2024-10-18,spotify:track:7hR22TOX3RorxJPcsz5Wbo
+15,30 For 30,SZA With Kendrick Lamar,False,3aSWXU6owkZeVhh94XxEWO,890,2782760,SOS Deluxe: LANA,2024-12-20,spotify:track:3aSWXU6owkZeVhh94XxEWO
+16,Sports Car,Tate McRae,False,2zOmS55knKWSgScYPTNmGQ,870,1650450,Sports car,2025-01-24,spotify:track:2zOmS55knKWSgScYPTNmGQ
+17,I Had Some Help,Post Malone Featuring Morgan Wallen,False,5IZXB5IKAD2qlvTPJYDCFB,830,1782050,F-1 Trillion,2024-08-15 00:00:00,spotify:track:5IZXB5IKAD2qlvTPJYDCFB
+18,Espresso,Sabrina Carpenter,True,2HRqTpkrJO5ggZyyK6NPWz,880,1754590,Short n' Sweet,2024-08-23,spotify:track:2HRqTpkrJO5ggZyyK6NPWz
+19,I'm The Problem,Morgan Wallen,True,3HlWVKwU0JqJXqJK9DWHnZ,840,1778110,I'm The Problem,2025-01-31,spotify:track:3HlWVKwU0JqJXqJK9DWHnZ
+20,Timeless,The Weeknd & Playboi Carti,True,0FIDCNYYjNvPVimz5icugS,860,2560000,Hurry Up Tomorrow,2025-01-31,spotify:track:0FIDCNYYjNvPVimz5icugS
+21,Messy,Lola Young,True,3SKH53SPQbEnZR4cJPVaz2,900,2840680,Messy,2024-05-30,spotify:track:3SKH53SPQbEnZR4cJPVaz2
+22,Revolving Door,Tate McRae,False,541sN2qNfIlllGn9nGOQoC,860,1800320,So Close To What,2025-02-21,spotify:track:541sN2qNfIlllGn9nGOQoC
+23,All The Stars,Kendrick Lamar & SZA,True,3GCdLUSnKSMJhs4Tj6CV3s,940,2321860,Black Panther The Album Music From And Inspired By,2018-02-09,spotify:track:3GCdLUSnKSMJhs4Tj6CV3s
+24,Taste,Sabrina Carpenter,True,5G2f63n7IPVPPjfNIGih7Q,900,1572790,Short n' Sweet,2024-08-23,spotify:track:5G2f63n7IPVPPjfNIGih7Q
+25,Denial Is A River,Doechii,False,1eTaznNW4Xxtx9za2SMTXB,910,1595860,Alligator Bites Never Heal,2024-08-30,spotify:track:1eTaznNW4Xxtx9za2SMTXB
+26,Too Sweet,Hozier,True,76JKIsdKrAfWUMjaA0u7v5,780,2514240,Unreal Unearth: Unaired,2024-08-19,spotify:track:76JKIsdKrAfWUMjaA0u7v5
+27,"Good Luck, Babe!",Chappell Roan,False,0WbMK4wrZ1wFSty9F7FCgu,930,2184230,"Good Luck, Babe!",2024-04-05,spotify:track:0WbMK4wrZ1wFSty9F7FCgu
+28,Gimme A Hug,Drake,False,5Nz7hI3cCOHmMR4vSLJ1An,830,1930540,$ome $exy $ongs 4 U,2025-02-14,spotify:track:5Nz7hI3cCOHmMR4vSLJ1An
+29,Die Trying,"PARTYNEXTDOOR, Drake & Yebba",True,0NUqi0ps17YpLUC3kgsZq0,860,1954310,$ome $exy $ongs 4 U,2025-02-14,spotify:track:0NUqi0ps17YpLUC3kgsZq0
+30,DTMF,Bad Bunny,False,3sK8wGT43QFpWrvNQsrQya,970,2371170,DeBÍ TiRAR MáS FOToS,2025-01-05,spotify:track:3sK8wGT43QFpWrvNQsrQya
+31,Abracadabra,Lady Gaga,True,5ZLUm9eab8y3tqQ1OhQSHI,930,2233980,Abracadabra,2025-02-03,spotify:track:5ZLUm9eab8y3tqQ1OhQSHI
+32,Stargazing,Myles Smith,True,3Vr3zh0r7ALn8VLqCiRR10,860,1725330,Stargazing,2024-05-10,spotify:track:3Vr3zh0r7ALn8VLqCiRR10
+33,Who,Jimin,True,7tI8dRuH2Yc6RuoTjxo4dU,890,1708870,MUSE,2024-07-19,spotify:track:7tI8dRuH2Yc6RuoTjxo4dU
+34,Bed Chem,Sabrina Carpenter,False,1UHS8Rf6h5Ar3CDWRd3wjF,870,1718690,Short n' Sweet,2024-08-23,spotify:track:1UHS8Rf6h5Ar3CDWRd3wjF
+35,Liar,Jelly Roll,True,0llPOBVoJYDAtdmVlNE41A,770,2049330,Beautifully Broken,2024-10-10,spotify:track:0llPOBVoJYDAtdmVlNE41A
+36,Please Please Please,Sabrina Carpenter,False,2tHwzyyOLoWSFqYNjeVMzj,850,1863650,Short n' Sweet,2024-08-23,spotify:track:2tHwzyyOLoWSFqYNjeVMzj
+37,Peekaboo,Kendrick Lamar Featuring AzChike,True,2Uts1QFB4u2YNIMiqcb4de,870,1559170,GNX,2024-11-22 00:00:00,spotify:track:2Uts1QFB4u2YNIMiqcb4de
+38,Sailor Song,Gigi Perez,True,2262bWmqomIaJXwCRHr13j,930,2119780,Sailor Song,2024-07-26,spotify:track:2262bWmqomIaJXwCRHr13j
+39,Baile Inolvidable,Bad Bunny,True,2lTm559tuIvatlT1u0JYG2,950,3677250,DeBÍ TiRAR MáS FOToS,2025-01-05,spotify:track:2lTm559tuIvatlT1u0JYG2
+40,High Road,Koe Wetzel & Jessie Murph,False,1FhgmMvNlh3nJ1Ldc2eE6H,740,1794130,9 Lives,2024-07-19,spotify:track:1FhgmMvNlh3nJ1Ldc2eE6H
+41,No One Noticed,The Marias,False,3siwsiaEoU4Kuuc9WKMUy5,880,2369060,Submarine,2024-05-31,spotify:track:3siwsiaEoU4Kuuc9WKMUy5
+42,BMF,SZA,False,3U3hFkMr0Q90pD24EkE3Pr,880,1807460,SOS Deluxe: LANA,2024-12-20,spotify:track:3U3hFkMr0Q90pD24EkE3Pr
+43,I Know Love,Tate McRae Featauring The Kid LAROI,True,4xvEn1vhrF9JbPFWqTXsH4,820,1562220,So Close To What,2025-02-21 00:00:00,spotify:track:4xvEn1vhrF9JbPFWqTXsH4
+44,Dear God,Tate McRae,True,2ETQsbiuGm2WLOSOr2I19A,810,1710140,So Close To What,2025-02-21,spotify:track:2ETQsbiuGm2WLOSOr2I19A
+45,Wildflower,Billie Eilish,True,3QaPy1KgI7nu9FJEQUgn6h,940,2614660,HIT ME HARD AND SOFT,2024-05-17,spotify:track:3QaPy1KgI7nu9FJEQUgn6h
+46,I Never Lie,Zach Top,False,3t6gUcGYLrUuqwpXjOFWQc,810,2249060,Cold Beer & Country Music,2024-04-05,spotify:track:3t6gUcGYLrUuqwpXjOFWQc
+47,Sticky,"Tyler, The Creator Featuring GloRilla, Sexyy Red & Lil Wayne",True,3tFed7YsjGnIfxeLEQwx3R,880,2559150,CHROMAKOPIA,2024-10-28 00:00:00,spotify:track:3tFed7YsjGnIfxeLEQwx3R
+48,Smile,Morgan Wallen,True,3MJ6lFNV12FSHAOzTzkwxz,810,2241270,Smile,2024-12-31,spotify:track:3MJ6lFNV12FSHAOzTzkwxz
+49,Whatchu Kno About Me,GloRilla & Sexyy Red,False,5xeSd4HgzrYpNLEf3LfYLK,800,1494610,GLORIOUS,2024-10-11,spotify:track:5xeSd4HgzrYpNLEf3LfYLK
+50,Cry For Me,The Weeknd,True,3AWDeHLc88XogCaCnZQLVI,890,2241360,Hurry Up Tomorrow,2025-01-31,spotify:track:3AWDeHLc88XogCaCnZQLVI
+51,I'm Gonna Love You,Cody Johnson & Carrie Underwood,True,08wyXJO5ZcqloLYbpufenQ,710,1881060,Leather Deluxe Edition,2024-11-01,spotify:track:08wyXJO5ZcqloLYbpufenQ
+52,Busy Woman,Sabrina Carpenter,False,0b0Dz0Gi86SVdBxYeiQcCP,880,1866120,Short n' Sweet (Deluxe),2025-02-14,spotify:track:0b0Dz0Gi86SVdBxYeiQcCP
+53,Purple Lace Bra,Tate McRae,False,2bqLj0NvdtGbPCl9PdBtP2,800,1911320,So Close To What,2025-02-21,spotify:track:2bqLj0NvdtGbPCl9PdBtP2
+54,Miss Possessive,Tate McRae,False,4Q9ExJGFgL9Jd9kmYH3nXs,810,1390980,So Close To What,2025-02-21,spotify:track:4Q9ExJGFgL9Jd9kmYH3nXs
+55,Indigo,Sam Barber Featuring Avery Anna,True,1KZG1H1OCugGqIRmk1wF9m,840,2866340,Restless Mind,2024-11-01 00:00:00,spotify:track:1KZG1H1OCugGqIRmk1wF9m
+56,Residuals,Chris Brown,False,4t4rGgiVX7woTmlnW9SHJ7,740,2151780,11:11 (Deluxe),2024-04-11,spotify:track:4t4rGgiVX7woTmlnW9SHJ7
+57,Tweaker,GELO,True,7HDq8aEtkBeZq7gfzYjW28,820,1895440,Tweaker,2025-01-03,spotify:track:7HDq8aEtkBeZq7gfzYjW28
+58,Call Me When You Break Up,"Selena Gomez, benny blanco & Gracie Abrams",False,4yFPKNzjkCS0PpRzhcvy1d,820,1268310,Call Me When You Break Up (with Gracie Abrams),2025-02-20,spotify:track:4yFPKNzjkCS0PpRzhcvy1d
+59,Worst Way,Riley Green,True,1osfLqL6L2iQsirRf83ded,800,2205580,Way Out Here,2024-04-12,spotify:track:1osfLqL6L2iQsirRf83ded
+60,CN Tower,PARTYNEXTDOOR & Drake,False,4u43I0LP2Xf85OAS85eG0R,820,2418890,$ome $exy $ongs 4 U,2025-02-14,spotify:track:4u43I0LP2Xf85OAS85eG0R
+61,Somebody Loves Me,PARTYNEXTDOOR & Drake,True,2kZoOj1n5vk9BuF0sih58M,800,1827670,$ome $exy $ongs 4 U,2025-02-14,spotify:track:2kZoOj1n5vk9BuF0sih58M
+62,Bad Dreams,Teddy Swims,True,3BntzKsnLf2pc0dsvE3Zav,830,1845770,I've Tried Everything But Therapy (Part 2),2025-01-24,spotify:track:3BntzKsnLf2pc0dsvE3Zav
+63,Good News,Shaboozey,True,54p6vNJwGkt4FTaM8SCsxt,800,1992090,Good News,2024-11-15,spotify:track:54p6vNJwGkt4FTaM8SCsxt
+64,bloodonmyhands,Tate McRae Featuring Flo Milli,False,5Y6a6AaahaBi5ljf6hk7dF,730,1624030,So Close To What,2025-02-24 00:00:00,spotify:track:5Y6a6AaahaBi5ljf6hk7dF
+65,I Ain't Sayin',Jordan Davis,False,7lCs3stpWCtAn5Y2lmnPhV,750,1740600,I Ain't Sayin',2024-07-26,spotify:track:7lCs3stpWCtAn5Y2lmnPhV
+66,Loco,Neton Vega,True,63EQbNhgaih4yg5412usWG,890,1865210,Loco,2024-12-20,spotify:track:63EQbNhgaih4yg5412usWG
+67,Mutt,Leon Thomas,True,2uvE4L5ZsYKpv8hbK4TIOt,800,1929330,MUTT,2024-09-27,spotify:track:2uvE4L5ZsYKpv8hbK4TIOt
+68,Nuevayol,Bad Bunny,False,5TFD2bmFKGhoCRbX61nXY5,930,1836850,DeBÍ TiRAR MáS FOToS,2025-01-05,spotify:track:5TFD2bmFKGhoCRbX61nXY5
+69,cLOUDs,J. Cole,False,53WWD2BBC6Jcip8wy5CniE,780,2420860,cLOUDs,2025-02-21,spotify:track:53WWD2BBC6Jcip8wy5CniE
+70,Fat Juicy & Wet,Sexyy Red & Bruno Mars,False,5M2lX0ZAYSAzCs1xPPi9BX,830,1410570,Fat Juicy & Wet,2025-01-24,spotify:track:5M2lX0ZAYSAzCs1xPPi9BX
+71,Ordinary,Alex Warren,True,6qqrTXSdwiJaq8SO0X2lSe,880,1869640,Ordinary,2025-02-07,spotify:track:6qqrTXSdwiJaq8SO0X2lSe
+72,Something About You,PARTYNEXTDOOR & Drake,True,1F6nHHDJyTHLgDDFj1ZZDt,800,2186820,$ome $exy $ongs 4 U,2025-02-14,spotify:track:1F6nHHDJyTHLgDDFj1ZZDt
+73,Like Him,"Tyler, The Creator Featuring Lola Young",True,6jbYpRPTEFl1HFKHk1IC0m,900,2780140,CHROMAKOPIA,2024-10-28 00:00:00,spotify:track:6jbYpRPTEFl1HFKHk1IC0m
+74,Signs,Tate McRae,True,5Dg1VGthgPfQasqbX5GHDE,730,1737650,So Close To What,2025-02-24,spotify:track:5Dg1VGthgPfQasqbX5GHDE
+75,ExtraL,JENNIE & Doechii,True,7AKwWqnoMmvCqBQtcdIECG,860,1677540,ExtraL (feat. Doechii),2025-02-21,spotify:track:7AKwWqnoMmvCqBQtcdIECG
+76,2 Hands,Tate McRae,True,08wLOGTbqSoo2CEl5RWl5C,700,1827400,So Close To What,2025-02-24,spotify:track:08wLOGTbqSoo2CEl5RWl5C
+77,4x4xU,Lainey Wilson,False,0ZHdP6TzcInPSdQwQ1fkBZ,61,239453,4×4×U,2024-07-04 00:00:00,spotify:track:0ZHdP6TzcInPSdQwQ1fkBZ
+78,Deeper,PARTYNEXTDOOR,True,4JeD0FGslDsMeeahEGZa2L,800,1723370,$ome $exy $ongs 4 U,2025-02-14,spotify:track:4JeD0FGslDsMeeahEGZa2L
+79,Am I Okay?,Megan Moroney,False,36wAwEkSDpNQ4oQeRLYC3L,760,2350020,Am I Okay?,2024-07-12,spotify:track:36wAwEkSDpNQ4oQeRLYC3L
+80,Heart Of A Woman,Summer Walker,True,2oVVaVY0LkzwAYYcyzon6Z,740,1710000,Heart Of A Woman,2024-10-25,spotify:track:2oVVaVY0LkzwAYYcyzon6Z
+81,Me Jalo,Fuerza Regida & Grupo Frontera,False,3D24ErT1MMmUfXWotSj2A2,870,2120020,MALA MÍA,2024-12-19,spotify:track:3D24ErT1MMmUfXWotSj2A2
+82,Headlock,Imogen Heap,True,63Pi2NAx5yCgeLhCTOrEou,870,2153380,Speak for Yourself (Deluxe Version),2005,spotify:track:63Pi2NAx5yCgeLhCTOrEou
+83,LV Bag,"Don Toliver, j-hope, Pharrell Williams & Speedy",False,1MhXchY126AX5Iuv4Odbe8,830,1826030,LV Bag (feat. j-hope of BTS & Pharrell Williams),2025-02-21,spotify:track:1MhXchY126AX5Iuv4Odbe8
+84,Voy A Llevarte Pa PR,Bad Bunny,False,59D4DOkspUbWyMmbAPQkxZ,930,1563640,DeBÍ TiRAR MáS FOToS,2025-01-05,spotify:track:59D4DOkspUbWyMmbAPQkxZ
+85,Por Esos Ojos,Fuerza Regida,False,5jHozZMWbrExAFni95mvvH,860,1880640,Por Esos Ojos,2025-02-11,spotify:track:5jHozZMWbrExAFni95mvvH
+86,Moth Balls,PARTYNEXTDOOR & Drake,False,7DL2F2bueQycqYjqsjHYjG,800,2126290,$ome $exy $ongs 4 U,2025-02-14,spotify:track:7DL2F2bueQycqYjqsjHYjG
+87,Raining In Houston,Drake,False,2xxb5zW09uwbgyLprALi9E,770,2449310,$ome $exy $ongs 4 U,2025-02-14,spotify:track:2xxb5zW09uwbgyLprALi9E
+88,The Largest,BigXthaPlug,True,3neOwym9kfYsM1QWaR77C1,750,1321600,TAKE CARE,2024-10-11,spotify:track:3neOwym9kfYsM1QWaR77C1
+89,Little Things,Ella Mai,True,2HA4tNLIXY1dGvDVCLeslk,720,1729240,3,2024-11-03,spotify:track:2HA4tNLIXY1dGvDVCLeslk
+90,Like I Do,Tate McRae,True,5KVot2VLi0sFVv7zyOCn0q,710,1820610,So Close To What,2025-02-24,spotify:track:5KVot2VLi0sFVv7zyOCn0q
+91,Spider-Man Superman,PARTYNEXTDOOR & Drake,False,4GqhG9rDuRUoNyDSMJ0Brq,780,2038930,$ome $exy $ongs 4 U,2025-02-14,spotify:track:4GqhG9rDuRUoNyDSMJ0Brq
+92,EOO,Bad Bunny,False,6J5kc12BW5HuP3d7C3vvx8,910,2047680,DeBÍ TiRAR MáS FOToS,2025-01-05,spotify:track:6J5kc12BW5HuP3d7C3vvx8
+93,Backseat Driver,Kane Brown,True,68SYsp6XfIEnlDYMgMyxUv,670,2280660,Backseat Driver,2024-10-11,spotify:track:68SYsp6XfIEnlDYMgMyxUv
+94,Pimmie's Dilemma,"Pimmie, PARTYNEXTDOOR & Drake",False,3CY3zAjrxKVInh2Lq1QiRb,780,1181530,$ome $exy $ongs 4 U,2025-02-14,spotify:track:3CY3zAjrxKVInh2Lq1QiRb
+95,Hey Now,Kendrick Lamar Featuring Dody6,False,5S8VwnB4sLi6W0lYTWYylu,830,2174780,GNX,2024-11-22 00:00:00,spotify:track:5S8VwnB4sLi6W0lYTWYylu
+96,No Pole,Don Toliver,True,0eaVIYo2zeOaGJeqZ5TwYz,870,1876130,Love Sick (Deluxe),2023-02-28,spotify:track:0eaVIYo2zeOaGJeqZ5TwYz
+97,Small Town Fame,Drake,True,1YHQQFtKqFSFrqL4cNvstU,780,1485090,$ome $exy $ongs 4 U,2025-02-14,spotify:track:1YHQQFtKqFSFrqL4cNvstU
+98,Que Pasaria...,Rauw Alejandro & Bad Bunny,False,0l0vcZMU7AOeQmUIREoI2U,900,1910180,Cosa Nuestra,2024-11-15,spotify:track:0l0vcZMU7AOeQmUIREoI2U
+99,Greenlight,Tate McRae,True,0WPC7zoxtjUMCpm3u0Xw7C,700,1650940,So Close To What,2025-02-24,spotify:track:0WPC7zoxtjUMCpm3u0Xw7C
+100,Weren't For The Wind,Ella Langley,False,2A22iI0x4EYAVXNpKPhNEM,730,1936660,still hungover,2024-11-01,spotify:track:2A22iI0x4EYAVXNpKPhNEM
